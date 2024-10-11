@@ -31,6 +31,14 @@ Import the database file ```learn.sql``` provided in the project folder at ```ph
 Now change the ```dbname```, ```username``` and ```password``` for connection accordingly in ```db.php``` file
 Now Project is ready to use
 
+# User Credentials
+please use below credentials for the admin panel
+
+```
+elearning@gmail.com
+Vinay@123
+```
+
 # User Interfaces
 ---
 
